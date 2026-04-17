@@ -41,6 +41,6 @@ i am grateful that my work is supported by the amazon ai research innovation fel
 
 ## thoughts lately
 
-(watch out for some sick upcoming thoughts!)
+(stay tuned for some sick upcoming thoughts!)
 
 </section>
