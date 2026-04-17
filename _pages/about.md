@@ -9,9 +9,11 @@ redirect_from:
 
 I am a third year PhD student studying machine learning at MIT, working in the department of Electrical Engineering and Computer Science with Professor Tamara Broderick.
 
-My background is in statistics and probability, with an interest in the hidden assumptions and fragilities that shape what we present as conclusions. Recently, my work has focused on surfacing false certainty in AI: whether in [AI evaluation](https://openreview.net/forum?id=jNiEMDsRgc&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), in fluent single answers to open-ended questions, or in the invisible sediment of [long conversation histories](https://arxiv.org/abs/2602.24287). Ultimately, I'm interested in designing systems that encourage users to slow down and engage critically with AI.
+My background is in statistics and probability, with an interest in the hidden assumptions and fragilities that shape what we present as [conclusions](https://openreview.net/pdf?id=m6EQ6YdPXV). Recently, my work has focused on surfacing false certainty in AI: whether in [AI evaluation](https://openreview.net/pdf?id=jNiEMDsRgc), in fluent single answers to open-ended questions, or in the invisible sediment of [long conversation histories](https://arxiv.org/abs/2602.24287). 
 
-I am grateful to have my work supported by the Amazon AI Research Innovation Fellowship, as well as the MIT Presidential and Quad Fellowships in the past.
+Ultimately, I'm interested in designing systems that encourage users to slow down and engage critically with AI.
+
+I am grateful to have my work supported by the Amazon AI Research Innovation Fellowship, and, previously, the MIT Presidential and Quad Fellowships.
 
 ---
 
