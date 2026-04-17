@@ -19,28 +19,28 @@ i am grateful to have my work supported by the amazon ai research innovation fel
 ## selected publications
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can find a full list of my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">you can find a full list of my articles on <a href="{{site.author.googlescholar}}">my google scholar profile</a> :p.</div>
 {% endif %}
 
 </section>
 
 
-<section id="news" markdown="1">
+<section id="recent-news" markdown="1">
 
-## news
+## recent news!
 
-- **May 2026** — i will be a student researcher at google this summer!
-- **Apr 2026** — i will be attending iclr 2026 🇧🇷! — at the main conference and the [memagents workshop].(https://sites.google.com/view/memagent-iclr26/)!
-- **Apr 2026** — i will be co-organizing the [WiDS cambridge datathon](https://sites.google.com/view/wids-cambridge-datathon-2026/organizers?authuser=0) on april 19th!
-- **Feb 2026** - our work on [the fragility of llm leaderboards](https://news.mit.edu/2026/study-platforms-rank-latest-llms-can-be-unreliable-0209) was featured on mit news!
+- **may 2026** — i will be a student researcher at google this summer.
+- **apr 2026** — i will be attending iclr 2026 🇧🇷 — at the main conference and then the [memagents workshop](https://sites.google.com/view/memagent-iclr26/).
+- **apr 2026** — i will be co-organizing the [wids cambridge datathon](https://sites.google.com/view/wids-cambridge-datathon-2026/organizers?authuser=0) on april 19th!
+- **feb 2026** - our work on the fragility of [llm leaderboards](https://news.mit.edu/2026/study-platforms-rank-latest-llms-can-be-unreliable-0209) was featured on the mit news!
 
 </section>
 
 
-<section id="recent-thoughts" markdown="1">
+<section id="thoughts-lately" markdown="1">
 
-## recent thoughts
+## thoughts lately
 
-watch out for some upcoming thoughts!
+watch out for some sick upcoming thoughts!
 
 </section>

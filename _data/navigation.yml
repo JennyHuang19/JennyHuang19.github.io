@@ -11,8 +11,8 @@ main:
   - title: "selected publications"
     url: /#selected-publications
 
-  - title: "news"
-    url: /#news
+  - title: "recent news"
+    url: /#recent-news
 
-  - title: "recent thoughts"
-    url: /#recent-thoughts
+  - title: "thoughts lately"
+    url: /#thoughts-lately
