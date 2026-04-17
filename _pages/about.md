@@ -17,30 +17,10 @@ i am grateful to have my work supported by the amazon ai research innovation fel
 
 <section id="selected-publications" markdown="1">
 
-## Selected Publications
+## selected publications
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can find a full list of my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}{% continue %}{% endif %}
-      {% unless title_shown %}
-        <h3>{{ category[1].title }}</h3><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
 {% endif %}
 
 </section>
@@ -49,15 +29,14 @@ i am grateful to have my work supported by the amazon ai research innovation fel
 
 <section id="news" markdown="1">
 
-## News
+## news
 
 </section>
 
 ---
 
-<section id="thoughts" markdown="1">
+<section id="recent thoughts" markdown="1">
 
-## Thoughts
-
+## recent thoughts
 
 </section>
