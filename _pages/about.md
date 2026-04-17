@@ -52,3 +52,13 @@ I am grateful to have my work supported by the Amazon AI Research Innovation Fel
 ## News
 
 </section>
+
+---
+
+<section id="thoughts">
+
+## Thoughts
+
+coming soon
+
+</section>
