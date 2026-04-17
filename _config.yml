@@ -23,7 +23,7 @@ repository               : "JennyHuang19/JennyHuang19.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/headshot.jpg"
+  avatar           : "headshot.jpg"
   # name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
