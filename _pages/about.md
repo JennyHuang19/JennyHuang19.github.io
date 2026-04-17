@@ -15,7 +15,7 @@ I am grateful to have my work supported by the Amazon AI Research Innovation Fel
 
 ---
 
-<section id="selected-publications">
+<section id="selected-publications" markdown="1">
 
 ## Selected Publications
 
@@ -47,7 +47,7 @@ I am grateful to have my work supported by the Amazon AI Research Innovation Fel
 
 ---
 
-<section id="news">
+<section id="news" markdown="1">
 
 ## News
 
@@ -55,10 +55,9 @@ I am grateful to have my work supported by the Amazon AI Research Innovation Fel
 
 ---
 
-<section id="thoughts">
+<section id="thoughts" markdown="1">
 
 ## Thoughts
 
-coming soon
 
 </section>
