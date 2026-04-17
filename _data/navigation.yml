@@ -14,5 +14,5 @@ main:
   - title: "news"
     url: /#news
 
-  - title: "thoughts"
-    url: /#thoughts
+  - title: "recent thoughts"
+    url: /#recent-thoughts
