@@ -19,7 +19,7 @@ i am grateful to have my work supported by the amazon ai research innovation fel
 ## selected publications
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">you can find a full list of my articles on <a href="{{site.author.googlescholar}}">my google scholar profile</a> :p.</div>
+  <div class="wordwrap">you can find a full list of my articles on <a href="{{site.author.googlescholar}}">my google scholar profile</a> :p!</div>
 {% endif %}
 
 </section>
@@ -41,6 +41,6 @@ i am grateful to have my work supported by the amazon ai research innovation fel
 
 ## thoughts lately
 
-watch out for some sick upcoming thoughts!
+(watch out for some sick upcoming thoughts!)
 
 </section>
