@@ -15,14 +15,6 @@ I am grateful to have my work supported by the Amazon AI Research Innovation Fel
 
 ---
 
-<section id="news">
-
-## News
-
-</section>
-
----
-
 <section id="selected-publications">
 
 ## Selected Publications
@@ -50,5 +42,13 @@ I am grateful to have my work supported by the Amazon AI Research Innovation Fel
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+
+</section>
+
+---
+
+<section id="news">
+
+## News
 
 </section>
