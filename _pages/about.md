@@ -29,7 +29,7 @@ i am grateful to have my work supported by the amazon ai research innovation fel
 
 ## recent news!
 
-- **may 2026** — i will be a student researcher at google this summer.
+- **may 2026** — i will be a student researcher at google (mtv) this summer.
 - **apr 2026** — i will be attending iclr 2026 🇧🇷 — at the main conference and then the [memagents workshop](https://sites.google.com/view/memagent-iclr26/).
 - **apr 2026** — i will be co-organizing the [wids cambridge datathon](https://sites.google.com/view/wids-cambridge-datathon-2026/organizers?authuser=0) on april 19th!
 - **feb 2026** - our work on the fragility of [llm leaderboards](https://news.mit.edu/2026/study-platforms-rank-latest-llms-can-be-unreliable-0209) was featured on the mit news!
