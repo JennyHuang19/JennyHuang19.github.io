@@ -9,7 +9,7 @@ redirect_from:
 
 i am a third year phd student at mit eecs, advised by professor tamara broderick. my background is in statistics and probability, with an interest in surfacing the hidden assumptions and fragilities that shape what we present as [data analysis conclusions](https://openreview.net/pdf?id=m6EQ6YdPXV). 
 
-my recent work has focused on surfacing false certainty in ai: whether in [ai evaluation](https://openreview.net/pdf?id=jNiEMDsRgc), in fluent single answers to open-ended questions, or in the invisible sediment of [long conversation histories](https://arxiv.org/abs/2602.24287). ultimately, i am interested in designing systems that encourage users to *slow down* and *think critically* when engaging with ai.
+my recent work has focused on surfacing false certainty in ai: whether in [ai evaluation](https://openreview.net/pdf?id=jNiEMDsRgc), in fluent single answers to open-ended questions, or in the invisible sediment of [long conversation histories](https://arxiv.org/abs/2602.24287). ultimately, i am interested in designing systems that encourage users to *slow down* when engaging with ai.
 
 i am grateful that my work is supported by the amazon ai research innovation fellowship, and (previously) the mit presidential and quad fellowships.
 
@@ -29,9 +29,9 @@ i am grateful that my work is supported by the amazon ai research innovation fel
 
 ## recent news!
 
-- **may 2026** — i will be a student researcher at google (mtv office) this summer.
+- **may 2026** — i will be a student researcher at google (mtv office).
 - **apr 2026** — i will be attending iclr 2026 🇧🇷 — at the main conference and then at the [memagents workshop](https://sites.google.com/view/memagent-iclr26/).
-- **apr 2026** — i will be co-organizing the [wids cambridge datathon](https://sites.google.com/view/wids-cambridge-datathon-2026/organizers?authuser=0) on april 19th!
+- **apr 2026** — i will be co-organizing the [wids cambridge datathon](https://sites.google.com/view/wids-cambridge-datathon-2026/organizers?authuser=0) on april 18th!
 - **feb 2026** - our work on the fragility of [llm leaderboards](https://news.mit.edu/2026/study-platforms-rank-latest-llms-can-be-unreliable-0209) was featured on the mit news!
 
 </section>
