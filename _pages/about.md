@@ -11,7 +11,7 @@ i am a third year phd student at mit eecs, advised by professor tamara broderick
 
 my recent work has focused on surfacing false certainty in ai: whether in [ai evaluation](https://arxiv.org/abs/2508.11847), in one-sided, confident answers to open-ended questions, or in the invisible sediment of [long conversation histories](https://arxiv.org/abs/2602.24287). ultimately, i am interested in designing systems that encourage users to *slow down* when engaging with ai.
 
-i am grateful that my work is supported by the amazon ai research innovation fellowship and IBM Research, and (prev) the mit presidential, fodsi, and the quad fellowship.
+i am grateful that my work is supported by the amazon ai research innovation fellowship and ibm research, and (prev) the mit presidential, fodsi, and the quad fellowship.
 
 
 <section id="selected-publications" markdown="1">
