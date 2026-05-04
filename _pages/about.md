@@ -42,6 +42,6 @@ i am grateful that my work is supported by the amazon ai research innovation fel
 
 ## thoughts lately
 
-- **[slow ai, ai that meets a human's pace](../_posts/slow%20ai,%20ai%20that%20meets%20a%20human's%20pace.md)** — reflections on designing ai systems that encourage deep, slow thinking rather than rapid-fire responses. touches on the dangers of "fast ai" culture and proposes design principles for systems that support human engagement and understanding.
+- **[slow ai, ai that meets a human's pace]({% post_url 2026-05-04-slow ai, ai that meets a human's pace %})** — reflections on designing ai systems that encourage deep, slow thinking.
 
 </section>
