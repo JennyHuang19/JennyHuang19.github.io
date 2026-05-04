@@ -4,6 +4,16 @@ title: "slow ai, ai that meets a human's pace"
 date: 2026-05-04
 ---
 
+<style>
+.post-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 2.5rem;
+}
+</style>
+
+<div class="post-content" markdown="1">
+
 my mind digests information at a much slower pace than i tend to believe. during college, i could breeze through a math lecture at 2x speed, convinced i was following everything the professor said, only to stare blankly at a problem set, not knowing where to begin.
 
 math started becoming more enjoyable when i slowed down and acknowledged that absorbing new information takes far longer than i typically would admit. i would pick out a handful of high-quality problems, learn them inside and out, notice exactly where i got stuck, and return to the same problem the next day with a fresh pair of eyes. after a certain point, i realized that i didn't actually need to consume that much information at all. understanding a new topic well[^1] was more about engaging deeply with a few core concepts.
@@ -33,7 +43,7 @@ second, the system should present a range of plausible [viewpoints](https://arxi
 third, system memory should be designed to prevent hidden assumptions from quietly accumulating in context. in [recent work](https://arxiv.org/abs/2602.24287), we find that, as chat histories progress, models tend to get caught in old pieces of code (see figure 2\) or vestiges of responses that are no longer relevant. this problem of models becoming [“more repetitive, and sometimes subtly wrong”](https://www.reddit.com/r/ChatGPT/comments/1qngpqa/does_chatgpt_quietly_get_worse_in_long/) as chat histories progress is a familiar headache. rather than linearly accumulating a full conversation transcript in context – tunnel-visioning the model with past lines of reasoning – we can design smarter, more structured ways to condition on the past. one way is to create a wide-angled view of chat history, representing past conversations as [knowledge graphs](https://github.com/MemPalace/mempalace/tree/develop). the model then conditions only on a high-level summary of the past, just enough to guide retrieval, while seeing the full conversation details when they become relevant.
 
 <figure style="text-align: center;">
-  <img src="/images/post-figures/cartoon_v3.png" alt="figure 2. a real-world example of gpt-5.2 reusing outdated information in chat history." width="30%" style="display: block; margin: 0 auto;" />
+  <img src="/images/post-figures/cartoon_v3.png" alt="figure 2. a real-world example of gpt-5.2 reusing outdated information found in the context window." width="30%" style="display: block; margin: 0 auto;" />
   <figcaption>figure 2. a real-world example of gpt-5.2 reusing outdated information in chat history. in a previous query, the user requested umap clustering code. in the next turn, the user says, "use t-sne instead." left: when the previous assistant response remains in context, the model incorrectly carries over the jaccard metric from umap into the t-sne implementation. right: without the previous response in context, the model generates correct t-sne code with appropriate arguments.</figcaption>
 </figure>
 
@@ -54,6 +64,7 @@ amidst a culture of *fast ai*, it is worth leaning into our slow thinking minds,
 [^1] at least to the extent one was required to over the course of a semester.
 [^2] we found that a 20 minute session was often not enough time to explore one prompt fully. 
 
+</div>
 
 ---
 *This post took shape through helpful discussions and feedback from Andre Ye, Mitchell Gordon, Marwa Abdulhai, Andy Liu, Omar Khattab, Smitha Milli, Sana Pandey, Deb Roy, Philippe Laban, Tamara Broderick, and other wonderful folks at ICLR 2026.*
