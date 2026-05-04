@@ -51,4 +51,4 @@ amidst a culture of *fast ai*, it is worth leaning into our slow thinking minds,
 
 
 ---
-*This post took shape through discussions and feedback from Andre Ye, Mitchell Gordon, Marwa Abdulhai, Andy Liu, Omar Khattab, Smitha Milli, Sana Pandey, Deb Roy, Philippe Laban, Tamara Broderick, and other wonderful folks at ICLR 2026.*
+*This post took shape through helpful discussions and feedback from Andre Ye, Mitchell Gordon, Marwa Abdulhai, Andy Liu, Omar Khattab, Smitha Milli, Sana Pandey, Deb Roy, Philippe Laban, Tamara Broderick, and other wonderful folks at ICLR 2026.*
