@@ -42,6 +42,6 @@ i am grateful that my work is supported by the amazon ai research innovation fel
 
 ## thoughts lately
 
-- **[slow ai, ai that meets a human's pace]({% post_url 2026-05-04-slow ai, ai that meets a human's pace %})**: reflections on designing ai systems that encourage deep, slow thinking.
+- **[slow ai, ai that meets a human's pace]({% post_url 2026-05-04-slow-ai-ai-that-meets-a-humans-pace %})**: reflections on designing ai systems that encourage deep, slow thinking.
 
 </section>
