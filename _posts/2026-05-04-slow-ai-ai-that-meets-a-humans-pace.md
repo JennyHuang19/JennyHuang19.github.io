@@ -38,7 +38,7 @@ lately, i've been thinking about how we might design ai to be more compatible wi
 
 first, the ai system should encourage the user to wrestle with the space of decisions that an llm needs to make along the way to generating its final response. just as understanding a mathematical proof requires wrestling with the underlying maze of failed paths along the way, becoming familiar with the full sequence of logical turns that make up the correct path, someone who receives an ai-generated response should be familiar with the major conceptual decision points that constitute the final response. what alternative responses could have been generated? and why might those responses be valid, or invalid? 
 
-to test out this mode of human-ai interaction, we designed an interface that lays bare the [conceptual roadblocks](https://multiverse.csail.mit.edu/) – the conflicting assumptions, interpretations, and frameworks – that shape an llm’s response. the system allows users to work through a conceptual decision tree, a space of possible decisions and resulting outputs (see figure 1). confronted with a multiplicity of decision points, users in our study felt a stronger sense of ownership over the final llm-generated responses. when compared to a traditional linear chat interface, users were surprised to find how long it took them to settle on one response,[^2] and how much they learned about different viewpoints and along the way. our design draws inspiration from the concept of [multiverse analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9636921/), a scientific method that specifies and runs a set of data-analytical choices, reporting results for each.
+to test out this mode of human-ai interaction, we designed an interface that lays bare the [conceptual roadblocks](https://multiverse.csail.mit.edu/) – the conflicting assumptions, interpretations, and frameworks – that shape an llm’s response. the system allows users to work through a conceptual decision tree, a space of possible decisions and resulting outputs. confronted with a multiplicity of decision points, users in our study felt a stronger sense of ownership over the final llm-generated responses. when compared to a traditional linear chat interface, users were surprised to find how long it took them to settle on one response,[^2] and how much they learned about different viewpoints and along the way. our design draws inspiration from the concept of [multiverse analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9636921/), a scientific method that specifies and runs a set of data-analytical choices, reporting results for each.
 
 <iframe src="https://multiverse.csail.mit.edu/" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
 
@@ -65,10 +65,8 @@ while it is useful to spawn an agent to speed up the work that we likely otherwi
 
 amidst a culture of *fast ai*, it is worth leaning into our slow thinking minds, the ones that were wired to get caught on simple problems for extended periods of time. our capacities for slow, deliberate thought may turn out to become our defining strength.
 
-<div style="font-size: 1.1em;">
 [^1]: at least to the extent one was required to over the course of a semester.
 [^2]: we found that a 20 minute session was often not enough time to explore one prompt fully.
-</div>
 
 ---
 *This post took shape through helpful discussions and feedback from Andre Ye, Mitchell Gordon, Marwa Abdulhai, Andy Liu, Omar Khattab, Smitha Milli, Sana Pandey, Deb Roy, Philippe Laban, Tamara Broderick, and other wonderful folks at ICLR 2026.*
