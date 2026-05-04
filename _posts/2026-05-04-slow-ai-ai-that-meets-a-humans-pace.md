@@ -68,7 +68,7 @@ while it is useful to spawn an agent to speed up the work that we likely otherwi
 
 amidst a culture of *fast ai*, it is worth leaning into our slow thinking minds, the ones that were wired to get caught on simple problems for extended periods of time. our capacities for slow, deliberate thought may turn out to become our defining strength.
 
-[^1] at least to the extent one was required to over the course of a semester.
-[^2] we found that a 20 minute session was often not enough time to explore one prompt fully.
+[^1]: at least to the extent one was required to over the course of a semester.
+[^2]: we found that a 20 minute session was often not enough time to explore one prompt fully.
 
 </div>
