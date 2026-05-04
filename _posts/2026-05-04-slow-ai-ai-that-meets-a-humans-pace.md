@@ -22,7 +22,7 @@ math started becoming more enjoyable when i slowed down and acknowledged that ab
 
 i believe our brains are wired to get caught on simple problems for extended periods of time. we might toil over the same problem for months – thinking about it in the shower, on the bus, from multiple different angles and perspectives. great scientists and artists often do so for years.
 
-<div style="font-size: 1.4em; font-style: italic; padding: 1.5rem; border-left: 4px solid #ccc; margin: 1rem 0;">
+<div style="font-size: 1.2em; font-style: italic; padding: 1.5rem; border-left: 4px solid #ccc; margin: 1rem 0;">
 i worry that the way ai has been introduced into our society is antithetical to the slow, non-linear type of thinking necessary for deep engagement with new ideas.
 </div>
 
