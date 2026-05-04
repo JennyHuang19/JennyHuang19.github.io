@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "slow ai, ai that meets a human's pace"
+title: "slow ai: ai that meets a human's pace"
 date: 2026-05-04
 ---
 
@@ -14,7 +14,7 @@ date: 2026-05-04
 
 <div class="post-content" markdown="1">
 
-# slow ai, ai that meets a human's pace.
+# slow ai: ai that meets a human's pace.
 
 my mind digests information at a much slower pace than i tend to believe. during college, i could breeze through a math lecture at 2x speed, convinced i was following everything the professor said, only to stare blankly at a problem set, not knowing where to begin.
 
@@ -51,7 +51,7 @@ third, system memory should be designed to prevent hidden assumptions from quiet
   <figcaption>figure 2. a real-world example of gpt-5.2 reusing outdated information in chat history. in a previous query, the user requested umap clustering code. in the next turn, the user says, "use t-sne instead." left: when the previous assistant response remains in context, the model incorrectly carries over the jaccard metric from umap into the t-sne implementation. right: without the previous response in context, the model generates correct t-sne code with appropriate arguments.</figcaption>
 </figure>
 
-finally, the system should respect that not every human problem deserves to be touched by an ai. in his book, [computer power and human reason](https://archive.org/details/computerpowerhum0000weiz_v0i3), joseph weisenbaum warns against consulting ai on tasks that require deeply human traits like empathy and wisdom. we can therefore design tools that encourage users to reflect on their [boundaries with ai](https://github.com/sanapandey/ai-boundaries). to do this, we created a chrome extension that allows users of chat interfaces to define (by placing a pin in a quadrant graph) how involved they’d like an ai’s response to be – from from direct, concrete responses to reflective questions back to the user – when presented with queries belonging to different areas of a user’s work and life. based on the preset boundaries, the tool produces a memory.md file that one can upload to any chat interface to serve as a guideline for the assistant.
+finally, the system should respect that not every human problem deserves to be touched by an ai. in his book, [computer power and human reason](https://archive.org/details/computerpowerhum0000weiz_v0i3), joseph weisenbaum warns against consulting ai on tasks that require deeply human traits like empathy and wisdom. we can therefore design tools that encourage users to reflect on their [boundaries with ai](https://github.com/sanapandey/ai-boundaries). to do this, we created a chrome extension that allows users of chat interfaces to define (by placing a pin in a quadrant graph) how involved they’d like an ai’s response to be – from from direct, concrete responses to reflective questions back to the user – when presented with queries belonging to different areas of a user’s work and life. based on the preset boundaries, the tool produces a *memory.md* file that one can upload to any chat interface to serve as a guideline for the assistant.
 
 <iframe src="/assets/ai-boundaries/onboarding.html" width="100%" height="700px" style="border: 1px solid #ccc;"></iframe>
 
@@ -69,6 +69,11 @@ amidst a culture of *fast ai*, it is worth leaning into our slow thinking minds,
 [^2]: we found that a 20 minute session was often not enough time to explore one prompt fully.
 
 ---
+
+<div style="font-size: 1.1em;">
+
 *This post took shape through helpful discussions and feedback from Andre Ye, Mitchell Gordon, Marwa Abdulhai, Andy Liu, Omar Khattab, Smitha Milli, Sana Pandey, Deb Roy, Philippe Laban, Tamara Broderick, and other wonderful folks at ICLR 2026.*
+
+</div>
 
 </div>
