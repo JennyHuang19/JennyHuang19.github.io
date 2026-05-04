@@ -4,7 +4,7 @@ title: "slow ai, ai that meets a human's pace"
 date: 2026-05-04
 ---
 
-my mind digests information at a much slower pace than i tend to believe. in college, i could breeze through a math lecture at 2x speed, convinced i was following everything the professor said, only to stare blankly at a problem set, not knowing where to begin.
+my mind digests information at a much slower pace than i tend to believe. during college, i could breeze through a math lecture at 2x speed, convinced i was following everything the professor said, only to stare blankly at a problem set, not knowing where to begin.
 
 math started becoming more enjoyable when i slowed down and acknowledged that absorbing new information takes far longer than i typically would admit. i would pick out a handful of high-quality problems, learn them inside and out, notice exactly where i got stuck, and return to the same problem the next day with a fresh pair of eyes. after a certain point, i realized that i didn't actually need to consume that much information at all. understanding a new topic well[^1] was more about engaging deeply with a few core concepts.
 
