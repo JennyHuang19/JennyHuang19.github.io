@@ -16,6 +16,9 @@ date: 2026-05-04
 
 # slow ai, ai that meets a human's pace.
 
+by: jenny huang  
+with helpful discussions and feedback from Andre Ye, Mitchell Gordon, Marwa Abdulhai, Andy Liu, Omar Khattab, Smitha Milli, Sana Pandey, Deb Roy, Philippe Laban, Tamara Broderick, and other wonderful folks at ICLR 2026.
+
 my mind digests information at a much slower pace than i tend to believe. during college, i could breeze through a math lecture at 2x speed, convinced i was following everything the professor said, only to stare blankly at a problem set, not knowing where to begin.
 
 math started becoming more enjoyable when i slowed down and acknowledged that absorbing new information takes far longer than i typically would admit. i would pick out a handful of high-quality problems, learn them inside and out, notice exactly where i got stuck, and return to the same problem the next day with a fresh pair of eyes. after a certain point, i realized that i didn't actually need to consume that much information at all. understanding a new topic well[^1] was more about engaging deeply with a few core concepts.
@@ -66,9 +69,6 @@ while it is useful to spawn an agent to speed up the work that we likely otherwi
 amidst a culture of *fast ai*, it is worth leaning into our slow thinking minds, the ones that were wired to get caught on simple problems for extended periods of time. our capacities for slow, deliberate thought may turn out to become our defining strength.
 
 [^1] at least to the extent one was required to over the course of a semester.
-[^2] we found that a 20 minute session was often not enough time to explore one prompt fully. 
-
----
-*This post took shape through helpful discussions and feedback from Andre Ye, Mitchell Gordon, Marwa Abdulhai, Andy Liu, Omar Khattab, Smitha Milli, Sana Pandey, Deb Roy, Philippe Laban, Tamara Broderick, and other wonderful folks at ICLR 2026.*
+[^2] we found that a 20 minute session was often not enough time to explore one prompt fully.
 
 </div>
