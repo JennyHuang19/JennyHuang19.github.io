@@ -68,7 +68,7 @@ amidst a culture of *fast ai*, it is worth leaning into our slow thinking minds,
 [^1] at least to the extent one was required to over the course of a semester.
 [^2] we found that a 20 minute session was often not enough time to explore one prompt fully. 
 
-</div>
-
 ---
 *This post took shape through helpful discussions and feedback from Andre Ye, Mitchell Gordon, Marwa Abdulhai, Andy Liu, Omar Khattab, Smitha Milli, Sana Pandey, Deb Roy, Philippe Laban, Tamara Broderick, and other wonderful folks at ICLR 2026.*
+
+</div>
