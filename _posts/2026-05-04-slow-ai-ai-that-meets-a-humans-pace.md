@@ -14,13 +14,17 @@ date: 2026-05-04
 
 <div class="post-content" markdown="1">
 
+# slow ai, ai that meets a human's pace.
+
 my mind digests information at a much slower pace than i tend to believe. during college, i could breeze through a math lecture at 2x speed, convinced i was following everything the professor said, only to stare blankly at a problem set, not knowing where to begin.
 
 math started becoming more enjoyable when i slowed down and acknowledged that absorbing new information takes far longer than i typically would admit. i would pick out a handful of high-quality problems, learn them inside and out, notice exactly where i got stuck, and return to the same problem the next day with a fresh pair of eyes. after a certain point, i realized that i didn't actually need to consume that much information at all. understanding a new topic well[^1] was more about engaging deeply with a few core concepts.
 
 i believe our brains are wired to get caught on simple problems for extended periods of time. we might toil over the same problem for months – thinking about it in the shower, on the bus, from multiple different angles and perspectives. great scientists and artists often do so for years.
 
-> *i worry that the way ai has been introduced into our society is antithetical to the slow, non-linear type of thinking necessary for deep engagement with new ideas.*
+<div style="font-size: 1.4em; font-style: italic; padding: 1.5rem; border-left: 4px solid #ccc; margin: 1rem 0;">
+i worry that the way ai has been introduced into our society is antithetical to the slow, non-linear type of thinking necessary for deep engagement with new ideas.
+</div>
 
 when information is hurled at us at 200 miles an hour – packaged in a fluent, convincing voice – it becomes easy to accept answers at face value, rather than take the time to make sense of it at our own pace.
 
