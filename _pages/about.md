@@ -9,7 +9,7 @@ redirect_from:
 
 i am a third year phd student at mit eecs, advised by professor tamara broderick. my background is in statistics and probability, with an interest in surfacing the hidden assumptions and fragilities that shape what we present as [data analysis conclusions](https://arxiv.org/abs/2408.09008). 
 
-my recent work has focused on surfacing false certainty in ai: whether in [ai evaluation](https://arxiv.org/abs/2508.11847), in one-sided, confident answers to [open-ended questions](https://arxiv.org/abs/2604.17815), or in the invisible sediment of [long conversation histories](https://arxiv.org/abs/2602.24287). ultimately, i am interested in designing systems that encourage users to *slow down* when engaging with ai.
+my recent work has focused on surfacing false certainty in ai: whether in [ai evaluation](https://arxiv.org/abs/2508.11847), in one-sided, confident answers to [open-ended questions](https://arxiv.org/abs/2604.17815), or in the invisible sediment of [long conversation histories](https://arxiv.org/abs/2602.24287). i am interested in designing systems that encourage users to *slow down* when engaging with ai.
 
 i am grateful that my work is supported by the amazon ai research innovation fellowship and ibm research, and (prev) the mit presidential, fodsi, and quad fellowships.
 
@@ -42,6 +42,6 @@ i am grateful that my work is supported by the amazon ai research innovation fel
 
 ## thoughts lately
 
-- **[slow ai: ai that meets a human's pace]({% post_url 2026-05-04-slow-ai-ai-that-meets-a-humans-pace %})**: on designing ai systems that encourage slow thinking.
+- **[slow ai: ai that meets a human's pace]({% post_url 2026-05-04-slow-ai-ai-that-meets-a-humans-pace %})** - on designing ai systems that encourage slow thinking.
 
 </section>
