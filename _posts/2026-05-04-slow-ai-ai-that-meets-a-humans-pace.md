@@ -24,7 +24,7 @@ my mind digests information at a much slower pace than i'd like to believe. in c
 
 math became very enjoyable for me once i slowed down and acknowledged that absorbing new information takes longer than i typically would anticipate. i would pick out a handful of high-quality problems, learn them inside and out, notice exactly where i got stuck, make a few logical leaps, and return to the same problem the very next day with a fresh pair of eyes. after a certain point, i realized that i didn't actually need to consume that much information at all. understanding a new topic well[^1] had more to do with engaging deeply with a few *core* concepts.
 
-i think our brains are wired to get stuck on simple problems for extended periods of time. we might toil over the same problem for months – thinking about it in the shower, on the bus, from multiple different angles and perspectives. great scientists and artists often do so for years.
+i believe our brains are wired to get stuck on simple problems for extended periods of time. we might toil over the same problem for months – thinking about it in the shower, on the bus, from multiple different angles and perspectives. great scientists and artists often do so for years.
 
 <div style="font-size: 1.2em; font-style: italic; padding: 1.5rem; border-left: 4px solid #ccc; margin: 1rem 0;">
 i worry that the way ai has been introduced into our society is antithetical to the slow, non-linear type of thinking necessary for deep engagement with new ideas.
@@ -59,13 +59,13 @@ finally, the system should respect that not every human problem deserves to be t
 
 <iframe src="/assets/ai-boundaries/onboarding.html" width="100%" height="700px" style="border: 1px solid #ccc; background: white;"></iframe>
 
-## the dangers of the growing culture of “fast ai.”
+## dangers of the growing culture of fast ai.
 
 i worry that the culture surrounding [autonomous ai](https://arxiv.org/pdf/2604.15597) is self-reinforcing: the less we engage, the harder it is to find our ways [back to engaging](https://blog.cosmos-institute.org/p/you-are-not-a-function).
 
 when information is handed to us pre-synthesized on a silver platter, the line between which ideas are our own and which came from an external agent begins to blur. without giving ourselves the time to think critically about what we receive, we risk drowning out our own [voices](https://arxiv.org/pdf/2603.18161). to make matters worse, post-training pipelines have been found to incentivize agents to [steer user behavior](https://arxiv.org/pdf/2405.17713) toward states that are [easier to satisfy](https://arxiv.org/html/2504.03206v2#S1). indeed, [claude user trends](https://arxiv.org/pdf/2601.19062) show that disempowerment patterns in real-world llm usage are growing with time. to date, the human line project has to date documented almost 300 cases of [ai psychosis](https://arxiv.org/pdf/2602.19141).
 
-interestingly, recent work on [self-distillation](https://arxiv.org/abs/2601.20802) has shown that llms learn better and [forget less](https://arxiv.org/abs/2601.19897) when they explain new concepts to themselves. rather than feeding the model content it cannot relate to (e.g., off-policy expert demonstrations), having the model explain the concept in its own words allows it to fold information into its pre-existing knowledge in a more sturdy way. just like machines, humans also learn best when they are acutely aware of the line that draws where their knowledge begins and ends.
+interestingly, recent work on [self-distillation](https://arxiv.org/abs/2601.20802) has shown that llms learn better and [forget less](https://arxiv.org/abs/2601.19897) when they explain new concepts to themselves. rather than feeding the model content it cannot relate to (e.g., off-policy expert demonstrations), having the model explain the concept in its own words allows it to fold information into its pre-existing knowledge in a more sturdy way. just like machines, humans also learn best when they are acutely aware of the line that discriminates where their knowledge begins and ends.
 
 so, while it is useful to spawn an agent to speed up work that we wouldn’t gain much from doing ourselves (e.g., writing plotting code), we should be more mindful of our choices to [outsource our thinking](https://x.com/yacineMTB/status/2018886083120153046) during processes of [knowledge creation](https://ergosphere.blog/posts/the-machines-are-fine/). while ai no doubt gives incredible "boosts" of speed when used in the right places at the right times, operating at such high speeds also makes steering knowledge work more difficult. without the time to to properly digest information at human speeds, it's easy to spend weeks going down unproductive rabbit holes, circling around the correct solution.
 
