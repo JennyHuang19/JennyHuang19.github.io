@@ -17,16 +17,16 @@ image: /images/post-figures/conceptual-multiverse.jpeg
   padding: 0 2.5rem;
 }
 .post-content a {
-  color: #5d2f9d;
+  color: #a88bd0;
   text-decoration: none;
-  border-bottom: 1px solid #5d2f9d;
+  border-bottom: 1px solid #a88bd0;
 }
 .post-content a:hover {
-  color: #5d2f9d;
-  border-bottom-color: #5d2f9d;
+  color: #a88bd0;
+  border-bottom-color: #a88bd0;
 }
 .post-content a:visited {
-  color: #5d2f9d;
+  color: #a88bd0;
 }
 </style>
 
