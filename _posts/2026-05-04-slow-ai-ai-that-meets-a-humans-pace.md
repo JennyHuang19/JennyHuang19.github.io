@@ -89,7 +89,7 @@ so, while it is useful to spawn an agent to speed up work that we wouldn’t gai
 
 amidst a culture of *fast ai*, it is worth leaning into the slow-thinking mind, the one that was wired to get caught up in simple problems over extended periods of time. indeed, at the current speed of ai progress, our capacity for slow thinking may turn out to be a defining superpower.
 
-[^1]: at least to the extent one was required to over the course of a semester.
+[^1]: at least, to the extent one was required to over the course of a semester ˃ᴗ˂.
 [^2]: a 20 minute session was often not enough to explore a single prompt fully.
 
 ---
