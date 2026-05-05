@@ -59,8 +59,6 @@ finally, the system should respect that not every human problem deserves to be t
 
 <iframe src="../../assets/ai-boundaries/onboarding.html" width="100%" height="700px" style="border: 1px solid #ccc;"></iframe>
 
-<img src="/images/post-figures/ai-boundaries-demo.jpg" alt="ai-boundaries demo" width="80%" style="display: block; margin: 2rem auto;" />
-
 ## the dangers of a growing “fast ai” culture.
 
 i worry that the culture of [autonomous ai](https://arxiv.org/pdf/2604.15597) is self-reinforcing: the less we engage, the harder it is to find our ways [back to engaging](https://blog.cosmos-institute.org/p/you-are-not-a-function).
