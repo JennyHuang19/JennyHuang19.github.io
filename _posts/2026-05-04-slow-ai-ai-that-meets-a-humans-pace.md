@@ -14,9 +14,7 @@ date: 2026-05-04
 
 <div class="post-content" markdown="1">
 
-# slow ai
-
-### ai that meets a human's pace.
+# slow ai: ai that meets a human's pace.
 
 <div style="font-size: 0.95em; color: #666; margin: 1.5rem 0 2rem 0; padding-bottom: 1rem; border-bottom: 1px solid #ddd;">
 <span>May 4, 2026</span> • <span>12 min read</span>
