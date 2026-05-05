@@ -18,6 +18,10 @@ date: 2026-05-04
 
 ### ai that meets a human's pace.
 
+<div style="font-size: 0.95em; color: #666; margin: 1.5rem 0 2rem 0; padding-bottom: 1rem; border-bottom: 1px solid #ddd;">
+<span>May 4, 2026</span> • <span>12 min read</span>
+</div>
+
 my mind digests information at a much slower pace than i'd like to believe. in college, i could breeze through a math lecture at 2x speed, convinced that i was following everything the professor was saying, only to stare blankly at a problem set, not knowing where to begin.
 
 math became very enjoyable for me once i slowed down and acknowledged that absorbing new information takes longer than i typically would anticipate. i would pick out a handful of high-quality problems, learn them inside and out, notice exactly where i got stuck, make a few logical leaps, and return to the same problem the very next day with a fresh pair of eyes. after a certain point, i realized that i didn't actually need to consume that much information at all. understanding a new topic well[^1] had more to do with engaging deeply with a few *core* concepts.
@@ -28,7 +32,7 @@ i think our brains are wired to get stuck on simple problems for extended period
 i worry that the way ai has been introduced into our society is antithetical to the slow, non-linear type of thinking necessary for deep engagement with new ideas.
 </div>
 
-when information is hurled at us at 200 miles an hour – packaged in a fluent, convincing voice – the path of least resistance is to accept it at face value without take the time to question, critique, or make sense of it at our own pace.
+when information is hurled at us at 200 miles an hour – packaged in a fluent, convincing voice – the path of least resistance becomes to accept the information at face value, without taking the time to question, critique, verify, and make sense of it at our own pace.
 
 ## ai can be used for slow thinking.
 just as we now have widespread access to a tool for [offloading thinking](https://www.ft.com/content/9c6a1daf-3c36-4035-bf74-1bedbc3e960d?syn-25a6b1a6=1), we have an equally capable one for facilitating deep thinking, the type necessary to reach states of new understanding and creativity: ai can follow a [feyman-esque](https://fs.blog/feynman-technique/) trail of questions, generate concrete examples, pull in documents, [rubber-duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging), and play devil’s advocate.
@@ -53,7 +57,7 @@ third, ai memory should be designed to prevent hidden assumptions from quietly a
   <figcaption style="font-size: 1.02em;">figure 2. a real-world example of gpt-5.2 reusing outdated information in chat history. in a previous query, the user requested umap clustering code. in the next turn, the user says, "use t-sne instead." left: when the previous assistant response remains in context, the model incorrectly carries over the jaccard metric from umap into the t-sne implementation. right: without the previous response in context, the model generates correct t-sne code with appropriate arguments.</figcaption>
 </figure>
 
-finally, the system should respect that not every human problem deserves to be touched by an ai. in his book, [computer power and human reason](https://archive.org/details/computerpowerhum0000weiz_v0i3), joseph weisenbaum warns against consulting ai on tasks that require deeply human traits like empathy and wisdom. we can therefore design tools that encourage users to reflect on their [boundaries with ai](https://github.com/sanapandey/ai-boundaries). to do this, we created a chrome extension that allows users of chat interfaces to define (by placing a pin in a quadrant graph) how involved they’d like an ai’s response to be – from from direct, concrete responses to reflective questions back to the user – when presented with queries belonging to different areas of a user’s work and life. based on the preset boundaries, the tool produces a *memory.md* file that one can upload to any chat interface to serve as a guideline for the assistant.
+finally, the system should respect that not every human problem deserves to be touched by an ai. in the mid-70's, joseph weisenbaum's [*computer power and human reason*](https://archive.org/details/computerpowerhum0000weiz_v0i3) warned against consulting ai on tasks that require deeply human traits like empathy and wisdom. to draw these lines, we can design tools that encourage users to reflect on their [boundaries with ai](https://github.com/sanapandey/ai-boundaries). to test this out, we created a chrome extension that allows users of chat interfaces to define (by placing a pin in a quadrant graph) how involved they’d like an ai’s response to be – from from direct, concrete responses to reflective questions back to the user – when presented with queries belonging to different areas of a user’s work and life. based on the preset boundaries, the tool produces a *memory.md* file that one can upload to any chat interface to serve as a guideline for the assistant.
 
 <iframe src="../../assets/ai-boundaries/onboarding.html" width="100%" height="700px" style="border: 1px solid #ccc;"></iframe>
 
