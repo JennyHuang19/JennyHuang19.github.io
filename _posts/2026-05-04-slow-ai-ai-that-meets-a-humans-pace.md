@@ -17,16 +17,16 @@ image: /images/post-figures/conceptual-multiverse.jpeg
   padding: 0 2.5rem;
 }
 .post-content a {
-  color: #16a34a;
+  color: #5d2f9d;
   text-decoration: none;
   border-bottom: 1px solid #16a34a;
 }
 .post-content a:hover {
-  color: #15803d;
+  color: #5d2f9d;
   border-bottom-color: #15803d;
 }
 .post-content a:visited {
-  color: #15803d;
+  color: #5d2f9d;
 }
 </style>
 
@@ -44,7 +44,7 @@ math became very enjoyable for me once i slowed down and acknowledged that absor
 
 i believe our brains are wired to get stuck on simple problems for extended periods of time. we might toil over the same problem for months – thinking about it in the shower, on the bus, from multiple different angles and perspectives. great scientists and artists often do so for years.
 
-<div style="font-size: 1.2em; font-style: italic; padding: 1.5rem; border-left: 4px solid #ccc; margin: 1rem 0;">
+<div style="font-size: 1.2em; font-style: italic; padding: 1.5rem; border-left: 4px solid #5d2f9d; margin: 1rem 0;">
 i worry that the way ai has been introduced into our society is antithetical to the slow, non-linear type of thinking necessary for deep engagement with new ideas.
 </div>
 
