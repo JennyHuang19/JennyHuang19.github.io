@@ -28,7 +28,7 @@ i think our brains are wired to get stuck on simple problems for extended period
 i worry that the way ai has been introduced into our society is antithetical to the slow, non-linear type of thinking necessary for deep engagement with new ideas.
 </div>
 
-when information is hurled at us at 200 miles an hour – packaged in a fluent, convincing voice – it becomes easy to accept it at face value rather than take the time to make sense of it at our own pace.
+when information is hurled at us at 200 miles an hour – packaged in a fluent, convincing voice – the path of least resistance is to accept it at face value without take the time to question, critique, or make sense of it at our own pace.
 
 ## ai can be used for slow thinking.
 just as we now have widespread access to a tool for [offloading thinking](https://www.ft.com/content/9c6a1daf-3c36-4035-bf74-1bedbc3e960d?syn-25a6b1a6=1), we have an equally capable one for facilitating deep thinking, the type necessary to reach states of new understanding and creativity: ai can follow a [feyman-esque](https://fs.blog/feynman-technique/) trail of questions, generate concrete examples, pull in documents, [rubber-duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging), and play devil’s advocate.
