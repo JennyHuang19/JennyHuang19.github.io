@@ -5,6 +5,11 @@ date: 2026-05-04
 image: /images/post-figures/conceptual-multiverse.jpeg
 ---
 
+<meta property="og:image" content="https://jennyhuang19.github.io/images/post-figures/conceptual-multiverse.jpeg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:type" content="article" />
+
 <style>
 .post-content {
   max-width: 800px;
