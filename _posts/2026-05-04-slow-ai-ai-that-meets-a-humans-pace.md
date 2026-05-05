@@ -20,7 +20,7 @@ date: 2026-05-04
 <span>May 4, 2026</span> • <span>12 min read</span>
 </div>
 
-my mind digests information at a much slower pace than i'd like to believe. in college, i could breeze through a math lecture at 2x speed, convinced that i was following everything the professor was saying, only to stare blankly at a problem set, not knowing where to begin.
+my mind digests information at a much slower pace than i'd like to believe. in college, i could breeze through a math lecture at 2x speed, convinced that i was following everything the professor was saying, only to stare blankly at a problem set not knowing where to begin.
 
 math became very enjoyable for me once i slowed down and acknowledged that absorbing new information takes longer than i typically would anticipate. i would pick out a handful of high-quality problems, learn them inside and out, notice exactly where i got stuck, make a few logical leaps, and return to the same problem the very next day with a fresh pair of eyes. after a certain point, i realized that i didn't actually need to consume that much information at all. understanding a new topic well[^1] had more to do with engaging deeply with a few *core* concepts.
 
@@ -67,7 +67,7 @@ when information is handed to us pre-synthesized on a silver platter, the line b
 
 interestingly, recent work on [self-distillation](https://arxiv.org/abs/2601.20802) has shown that llms learn better and [forget less](https://arxiv.org/abs/2601.19897) when they explain new concepts to themselves. rather than feeding the model content it cannot relate to (e.g., off-policy expert demonstrations), having the model explain the concept in its own words allows it to fold information into its pre-existing knowledge in a more sturdy way. just like machines, humans also learn best when they are acutely aware of the line that discriminates where their knowledge begins and ends.
 
-so, while it is useful to spawn an agent to speed up work that we wouldn’t gain much from doing ourselves (e.g., writing plotting code), we should be more mindful of our choices to [outsource our thinking](https://x.com/yacineMTB/status/2018886083120153046) during processes of [knowledge creation](https://ergosphere.blog/posts/the-machines-are-fine/). while ai no doubt gives incredible "boosts" of speed when used in the right places at the right times, operating at such high speeds also makes steering knowledge work more difficult. without the time to properly digest information at human speeds, it's easy to fall into the trap of spending weeks down unproductive rabbit holes, circling around the correct solution (or question).
+so, while it is useful to spawn an agent to speed up work that we wouldn’t gain much from doing ourselves (e.g., writing plotting code), we should be more selective in choices to [outsource our thinking](https://x.com/yacineMTB/status/2018886083120153046) during processes of [knowledge creation](https://ergosphere.blog/posts/the-machines-are-fine/). while ai no doubt gives incredible "boosts" of speed when used in the right places at the right times, operating at such high speeds also makes steering knowledge work more difficult. without the time to properly digest information at human speeds, it's easy to fall into the trap of spending weeks down unproductive rabbit holes, circling around the correct solution (or question).
 
 amidst a culture of *fast ai*, it is worth leaning into the slow-thinking mind, the one that was wired to get stuck thinking about simple problems over extended periods of time. 
 
