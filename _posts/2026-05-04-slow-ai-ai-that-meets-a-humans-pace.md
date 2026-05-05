@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "slow ai: ai that meets a human's pace"
+title: "slow ai: ai that matches a human's pace"
 date: 2026-05-04
 image: /images/post-figures/conceptual-multiverse.jpeg
 ---
@@ -16,11 +16,23 @@ image: /images/post-figures/conceptual-multiverse.jpeg
   margin: 0 auto;
   padding: 0 2.5rem;
 }
+.post-content a {
+  color: #16a34a;
+  text-decoration: none;
+  border-bottom: 1px solid #16a34a;
+}
+.post-content a:hover {
+  color: #15803d;
+  border-bottom-color: #15803d;
+}
+.post-content a:visited {
+  color: #15803d;
+}
 </style>
 
 <div class="post-content" markdown="1">
 
-# slow ai: ai that meets a human's pace.
+# slow ai: ai that matches a human's pace.
 
 <div style="font-size: 0.95em; color: #666; margin: 1.5rem 0 2rem 0; padding-bottom: 1rem; border-bottom: 1px solid #ddd;">
 <span>May 4, 2026</span> • <span>12 min read</span>
