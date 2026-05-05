@@ -57,7 +57,7 @@ third, ai memory should be designed to prevent hidden assumptions from quietly a
 
 finally, the system should respect that not every human problem deserves to be touched by an ai. in the mid-70's, joseph weisenbaum's [*computer power and human reason*](https://archive.org/details/computerpowerhum0000weiz_v0i3) warned against consulting ai on tasks that require deeply human traits like *empathy* and *wisdom*. thus, we can design tools that encourage users to reflect on their [boundaries with ai](https://github.com/sanapandey/ai-boundaries). to test this out, we created a chrome extension that allows users of chat interfaces to define (by placing a pin in a quadrant graph) how involved they’d like an ai’s response to be – from from direct, concrete responses to reflective questions back to the user – when presented with queries belonging to different areas of a user’s work and life. based on the preset boundaries, the tool produces a *memory.md* file that one can upload to any chat interface to serve as a guideline for the assistant.
 
-<iframe src="file:///Users/JennyH/Desktop/ai-agency/ai-boundaries/onboarding.html" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<iframe src="/assets/ai-boundaries/onboarding.html" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
 
 ## dangers of the growing culture of fast ai.
 
