@@ -36,9 +36,9 @@ just as we now have widespread access to a tool for [offloading thinking](https:
 ethicist and cognitive scientist josh may offers a helpful rule of thumb for using ai in [intellectual tasks](https://joshdmay.substack.com/p/why-smart-people-make-weak-arguments): “you should use llms to generate inputs to your thinking, not outputs for others to read.”
 
 ## designing slow ai. 
-lately, i've been thinking about ways to design ai to be more compatible with slow, deliberate thinking.
+lately, i've been thinking about ways to design ai to be more compatible with slow thinking.
 
-first, an ai system should encourage the user to wrestle with the sequence of decisions that need to be made along the way to producing a final packaged response. just as understanding a mathematical proof requires wrestling with the underlying maze of failed paths along the way - one eventually feels solid about the sequence of logical steps that make a correct path correct - someone who receives an ai-generated response should strive to be familiar with the major conceptual decision nodes that constitute the final response. what alternative responses could have been generated? why might those responses have been valid, or invalid? what are some natural extensions that could be made?
+first, an ai system should encourage the user to wrestle with the sequence of decisions that need to be made along the way to producing a final packaged response. just as understanding a mathematical proof requires wrestling with the underlying maze of failed paths along the way - one eventually feels solid about the sequence of logical steps that make a correct path correct - someone who receives an ai-generated response should strive to be familiar with the major conceptual decision nodes that constitute the final response. what alternative responses could have been generated? why might those responses have been valid, or invalid? what are some natural extensions that could be drawn?
 
 to test out a new mode of human-ai interaction, we designed an interface that lays bare the [conceptual roadblocks](https://multiverse.csail.mit.edu/) – the conflicting assumptions, interpretations, and frameworks – that shape an ai's response. the system allows users to work through a conceptual decision tree, a space of possible decisions and resulting outputs. confronted with a multiplicity of decision points, users in our study felt a stronger sense of ownership over the final llm-generated responses. when compared to a traditional linear chat interface, users were surprised to find how long it took them to work through just one response,[^2] and how much they learned from the different viewpoints along the way. our design draws inspiration from the concept of [multiverse analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9636921/), a scientific method that specifies and runs a set of data-analytical choices, reporting results for each.
 
@@ -74,10 +74,7 @@ amidst a culture of *fast ai*, it is worth leaning into that slow-thinking mind,
 
 ---
 
-<div style="font-size: 1.1em;">
+*this post took shape through discussions with andre ye, mitchell gordon, marwa abdulhai, andy liu, omar khattab, smitha milli, sana pandey, deb roy, philippe laban, tamara broderick, and other wonderful conversations at iclr 2026.*
 
-This post took shape through helpful discussions with Andre Ye, Mitchell Gordon, Marwa Abdulhai, Andy Liu, Omar Khattab, Smitha Milli, Sana Pandey, Deb Roy, Philippe Laban, Tamara Broderick, and other wonderful folks at ICLR 2026.
-
-</div>
 
 </div>
