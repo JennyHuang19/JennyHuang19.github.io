@@ -19,11 +19,11 @@ image: /images/post-figures/conceptual-multiverse.jpeg
 .post-content a {
   color: #5d2f9d;
   text-decoration: none;
-  border-bottom: 1px solid #16a34a;
+  border-bottom: 1px solid #5d2f9d;
 }
 .post-content a:hover {
   color: #5d2f9d;
-  border-bottom-color: #15803d;
+  border-bottom-color: #5d2f9d;
 }
 .post-content a:visited {
   color: #5d2f9d;
@@ -87,9 +87,7 @@ interestingly, recent work on [self-distillation](https://arxiv.org/abs/2601.208
 
 so, while it is useful to spawn an agent to speed up work that we wouldn’t gain much from doing ourselves (e.g., writing plotting code), we should be more selective in choices to [outsource our thinking](https://x.com/yacineMTB/status/2018886083120153046) during processes of [knowledge creation](https://ergosphere.blog/posts/the-machines-are-fine/). while ai no doubt gives incredible "boosts" of speed when used in the right places at the right times, operating at such high speeds also makes steering knowledge work more difficult. without the time to properly digest information at human speeds, it's easy to fall into the trap of spending weeks down unproductive rabbit holes, circling around the correct solution (or question).
 
-amidst a culture of *fast ai*, it is worth leaning into the slow-thinking mind, the one that was wired to get stuck thinking about simple problems over extended periods of time. 
-
-indeed, at the current speed of ai progress, our capacity for slow thinking may turn out to be our defining superpower.
+amidst a culture of *fast ai*, it is worth leaning into the slow-thinking mind, the one that was wired to get stuck thinking about simple problems over extended periods of time. indeed, at the current speed of ai progress, our capacity for slow thinking may turn out to be our defining superpower.
 
 [^1]: at least to the extent one was required to over the course of a semester.
 [^2]: a 20 minute session was often not enough to explore a single prompt fully.
