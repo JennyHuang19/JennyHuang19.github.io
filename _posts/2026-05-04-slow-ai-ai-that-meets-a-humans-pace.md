@@ -33,7 +33,7 @@ i worry that the way ai has been introduced into our society is antithetical to 
 when information is hurled at us at 200 miles an hour – packaged in a fluent, convincing voice – the path of least resistance becomes to accept that information at face value, without taking the time to question, critique, verify, and make sense of it at our own pace.
 
 ## ai can be used for slow thinking.
-just as we now have widespread access to a tool for [offloading thinking](https://www.ft.com/content/9c6a1daf-3c36-4035-bf74-1bedbc3e960d?syn-25a6b1a6=1), we have an equally capable one for facilitating deep thinking, the type necessary to reach states of understanding and creativity: ai can follow a [feyman-esque](https://fs.blog/feynman-technique/) trail of questions, generate concrete examples, pull in documents, [rubber-duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging), and play devil’s advocate.
+just as we now have widespread access to a tool for [offloading thinking](https://www.ft.com/content/9c6a1daf-3c36-4035-bf74-1bedbc3e960d?syn-25a6b1a6=1), we have an equally capable one for facilitating deep thinking, the type necessary to reach states of understanding and creativity: ai can follow a [feyman-esque](https://fs.blog/feynman-technique/) trail of questions, generate concrete examples on-the-spot, pull in documents, [rubber-duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging), and play devil’s advocate.
 
 ethicist and cognitive scientist josh may offers a helpful rule of thumb for using ai in [intellectual tasks](https://joshdmay.substack.com/p/why-smart-people-make-weak-arguments): “you should use llms to generate inputs to your thinking, not outputs for others to read.”
 
