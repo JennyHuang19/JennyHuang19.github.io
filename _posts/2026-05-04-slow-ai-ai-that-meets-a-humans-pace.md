@@ -2,6 +2,7 @@
 layout: post
 title: "slow ai: ai that meets a human's pace"
 date: 2026-05-04
+image: /images/post-figures/conceptual-multiverse.jpeg
 ---
 
 <style>
