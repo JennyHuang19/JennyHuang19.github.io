@@ -46,7 +46,7 @@ i believe our brains are wired to get stuck on simple problems for extended peri
 
 <figure id="monet-figure" style="text-align: center; margin: 2rem 0;">
   <img src="/images/post-figures/monet-repetition.jpg" alt="Monet painted the Palazzo Ducale from several slightly different angles." width="100%" style="display: block; margin: 0 auto;" />
-  <figcaption style="font-size: 1.02em;">Monet painted the Palazzo Ducale repeatedly, from a range of angles and under different lighting conditions. Photographed in the de Young Museum in San Francisco.</figcaption>
+  <figcaption style="font-size: 1.02em;">monet painted the palazzo ducale repeatedly, from a range of angles and under different lighting conditions. photographed in the de young museum in san francisco.</figcaption>
 </figure>
 
 <div style="font-size: 1.2em; font-style: italic; padding: 1.5rem; border-left: 4px solid #5d2f9d; margin: 1rem 0;">
