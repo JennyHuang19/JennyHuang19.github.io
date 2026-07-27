@@ -42,11 +42,11 @@ my mind digests information at a much slower pace than i'd like to believe. in c
 
 math became very enjoyable for me once i slowed down and acknowledged that absorbing new information takes longer than i typically would anticipate. i would pick out a handful of high-quality problems, learn them inside and out, notice exactly where i got stuck, make a few logical leaps, and return to the same problem the very next day with a fresh pair of eyes. after a certain point, i realized that i didn't actually need to consume that much information at all. understanding a new topic well[^1] had more to do with engaging deeply with a few *core* concepts.
 
-i believe our brains are wired to get stuck on simple problems for extended periods of time. we might toil over the same problem for months – thinking about it in the shower, on the bus, from multiple different angles and perspectives. great scientists and [artists](#monet-figure) often do so for years.
+i believe our brains are wired to get stuck on simple problems for extended periods of time. we might toil over the same problem for months – thinking about it in the shower, on the bus, from multiple different angles and perspectives. great scientists and artists often do so for years.
 
 <figure id="monet-figure" style="text-align: center; margin: 2rem 0;">
   <img src="/images/post-figures/monet-repetition.jpg" alt="Monet painted the Palazzo Ducale from several slightly different angles." width="100%" style="display: block; margin: 0 auto;" />
-  <figcaption style="font-size: 1.02em;">Monet painted the Palazzo Ducale repeatedly, from a range of angles and under different lighting conditions. (Photographed in the de Young Museum in San Francisco)</figcaption>
+  <figcaption style="font-size: 1.02em;">Monet painted the Palazzo Ducale repeatedly, from a range of angles and under different lighting conditions. Photographed in the de Young Museum in San Francisco.</figcaption>
 </figure>
 
 <div style="font-size: 1.2em; font-style: italic; padding: 1.5rem; border-left: 4px solid #5d2f9d; margin: 1rem 0;">
