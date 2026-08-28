@@ -29,6 +29,7 @@ i am grateful that my work is supported by the amazon ai research innovation fel
 
 ## recent news!
 
+- **aug 2026** — gave a talk at the [stanford ai measurement seminar](https://hai.stanford.edu/events/hai-seminar-with-samni-koyejo) on robust rankings.
 - **may 2026** — i will be a student researcher at google (mtv office).
 - **apr 2026** — i have been selected as an amazon ai research innovation fellow for the 2026-27 year!
 - **apr 2026** — i will be attending iclr 2026 🇧🇷 — at the main conference and then at the [memagents workshop](https://sites.google.com/view/memagent-iclr26/).
