@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-i am a third year phd student at mit eecs, advised by professor tamara broderick. my background is in statistics and probability, with an interest in surfacing the hidden assumptions and fragilities that shape what we present as [data analysis conclusions](https://arxiv.org/abs/2408.09008). 
+i am a third year phd student at mit eecs, advised by professor tamara broderick. my background is in statistics and probability, with an interest in surfacing the hidden assumptions and fragilities that shape the way we present [data analysis conclusions](https://arxiv.org/abs/2408.09008). 
 
 my recent work has focused on surfacing false certainty in ai: whether in [ai evaluation](https://arxiv.org/abs/2508.11847), in one-sided, confident answers to [open-ended questions](https://arxiv.org/abs/2604.17815), or in the invisible sediment of [long conversation histories](https://arxiv.org/abs/2602.24287). i am also interested in designing systems that encourage users to *slow down* when engaging with ai.
 
