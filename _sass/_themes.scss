@@ -7,7 +7,7 @@
    ========================================================================== */
 
 /* Used to set the size for <em> */
-$doc-font-size              : 16;
+$doc-font-size              : 18;
 
 /* Paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -30,14 +30,14 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 /* Type scale */
-$type-size-1                : 2.441em;  // ~39.056px
-$type-size-2                : 1.953em;  // ~31.248px
-$type-size-3                : 1.563em;  // ~25.008px
-$type-size-4                : 1.25em;   // ~20px
-$type-size-5                : 1em;      // ~16px
-$type-size-6                : 0.75em;   // ~12px
-$type-size-7                : 0.6875em; // ~11px
-$type-size-8                : 0.625em;  // ~10px
+$type-size-1                : 2.8em;    // ~44.8px
+$type-size-2                : 2.24em;   // ~35.84px
+$type-size-3                : 1.792em;  // ~28.672px
+$type-size-4                : 1.43em;   // ~22.88px
+$type-size-5                : 1.143em;  // ~18.288px
+$type-size-6                : 0.857em;  // ~13.712px
+$type-size-7                : 0.786em;  // ~12.576px
+$type-size-8                : 0.714em;  // ~11.424px
 
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
