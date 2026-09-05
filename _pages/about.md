@@ -9,7 +9,7 @@ redirect_from:
 
 i am a third year phd student at mit eecs, advised by professor tamara broderick. my background is in statistics and probability, with an interest in surfacing the hidden assumptions and fragilities that shape the way we present [data analysis conclusions](https://arxiv.org/abs/2408.09008). 
 
-my recent work has focused on surfacing false certainty in ai: whether in [ai evaluation](https://arxiv.org/abs/2508.11847), in one-sided, confident answers to [open-ended questions](https://arxiv.org/abs/2604.17815), or in the invisible sediment of [long conversation histories](https://arxiv.org/abs/2602.24287). recently, i've been working on projects in ai safety and alignment; in particular, my work at google research focused on making models more honest.
+my recent work has focused on surfacing false certainty in ai: whether in [ai evaluation](https://arxiv.org/abs/2508.11847), in one-sided, confident answers to [open-ended questions](https://arxiv.org/abs/2604.17815), or in the invisible sediment of [long conversation histories](https://arxiv.org/abs/2602.24287). recently, i've been working in ai safety and alignment; my work at google research focused on making agents more honest.
 
 i am grateful that my work is supported by the amazon ai research innovation fellowship and ibm research, and (prev) the mit presidential, fodsi, and quad fellowships.
 
