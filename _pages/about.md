@@ -11,7 +11,7 @@ i am a final year phd student at mit eecs, advised by professor tamara broderick
 
 my work has focused on surfacing false certainty in ai and making failure modes visible to the humans overseeing them: whether in [ai evaluation](https://arxiv.org/abs/2508.11847), in the invisible sediment of [long conversation histories](https://arxiv.org/abs/2602.24287), or in one-sided, confident answers to [open-ended questions](https://arxiv.org/abs/2604.17815). my background in statistics and probability has [helped shape](https://arxiv.org/abs/2408.09008) how i approach these problems.
 
-most recently, my work at google has been on making ai agent reports more transparent (project landed in gemini post-training!)
+most recently, my work at google has been on making ai agent reports more honest (project landed in gemini post-training!)
 
 i am grateful to be supported by the amazon ai research innovation fellowship and ibm research, and (prev) the mit presidential, fodsi, and quad fellowships.
 
