@@ -31,7 +31,7 @@ i am grateful to be supported by the amazon ai research innovation fellowship an
 
 ## recent news
 
-- **sept 2026** — i will be participating in the exploration phase of neel nanda's mats stream (38 selected out of 889 applicants).
+- **sept 2026** — i will be participating in the exploration phase of neel nanda's mats stream (38 selected out of 889)
 - **aug 2026** — i gave a talk at the [stanford ai measurement seminar](https://hai.stanford.edu/events/hai-seminar-with-samni-koyejo).
 - **may 2026** — i will be a student researcher at google (mtv office).
 - **apr 2026** — i have been selected as an amazon ai research innovation fellow for the 2026-27 year!
