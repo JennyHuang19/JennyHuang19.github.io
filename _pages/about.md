@@ -51,6 +51,6 @@ i am grateful to be supported by the amazon ai research innovation fellowship an
 </p>
 
 - **[slow ai: ai that meets a human's pace]({% post_url 2026-05-04-slow-ai-ai-that-meets-a-humans-pace %})** - on designing ai systems that encourage slow thinking.
-- **[ask your ai agent to be honest](https://www.lesswrong.com/posts/iPAqm9BmmFvTK6mDy/always-ask-your-agent-to-be-honest)** - experiments revealing why you should always ask your ai agent to be honest.
+- **[ask your ai agent to be honest](https://www.lesswrong.com/posts/iPAqm9BmmFvTK6mDy/always-ask-your-agent-to-be-honest)** - experiments revealing why you should not always trust your agent's account of work.
 
 </section>
