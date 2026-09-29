@@ -40,7 +40,7 @@ date: 2026-09-29
 </div>
 
 <div style="font-size: 1.1em; font-style: italic; margin: 0 0 2rem 0;">
-this post was written with extensive discussions and fun chats with omar khattab, tamara broderick, and dennis wei.
+this post was written with extensive feedback and fun discussions with omar khattab, tamara broderick, and dennis wei.
 </div>
 
 ## introduction
