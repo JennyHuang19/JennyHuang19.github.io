@@ -47,9 +47,9 @@ this post was written with extensive feedback and fun discussions with omar khat
 
 at some point, you may have experienced the feeling of reading ai-generated content, doing a double take, rereading carefully, and realizing that very little was *actually* said. the verbose yet vacuous nature of ai-generated text makes the content needlessly hard to engage with.
 
-tasteful writing and coding are central to knowledge work, yet "good taste" – relevance, clarity, and concision – seems to be notoriously hard for modern llms to acquire. taste of this kind is notably non-verifiable and difficult to quantify, making it poorly served by today's training pipelines. the result is the now-ubiquitous ["ai slop"](https://arxiv.org/abs/2509.19163): text that is superficially fluent but lacking in style and substance ([shaib et al., 2025](https://arxiv.org/abs/2509.19163); [chakrabarty et al., 2025](https://arxiv.org/abs/2409.14509)).
+tasteful writing and coding are central to knowledge work, yet "good taste" – relevance, clarity, and concision – seems to be notoriously hard for modern llms to grasp. "taste" is notably non-verifiable, making it poorly served by today's training pipelines. what we end up with is the now-commonplace ["ai slop"](https://arxiv.org/abs/2509.19163): text that is fluent but lacking in style and substance ([shaib et al., 2025](https://arxiv.org/abs/2509.19163); [chakrabarty et al., 2025](https://arxiv.org/abs/2409.14509)).
 
-to investigate what user's think of chat–assistant responses, we ran a small-scale exploratory analysis of [thoughttrace](https://thoughttrace-project.github.io/), a large-scale dataset of real-world multi-turn human–ai conversations with users' *self-reported reactions* to chat–assistant responses. the dataset comprises 1,058 users and 2,155 conversational turns. through annotating a random subset of 200 conversations with a human and llm-judge (gemini-2.5-pro), the two prominent user complaints we found were both related to style and presentation:
+to investigate what user's think of the verbosity of chatbot responses, we ran a small-scale analysis of [thoughttrace](https://thoughttrace-project.github.io/), a dataset of real-world multi-turn human–ai conversations with users' *self-reported reactions* to chat–assistant responses. the dataset comprises 1,058 users and 2,155 conversational turns. through annotating a random subset of 200 conversations with a human and llm-judge (gemini-2.5-pro), the two prominent user complaints we found were both related to style and presentation:
 
 1. **unnecessary detail.** users complain that too much unnecessary detail blurs the essence, or core idea, behind the response.
 2. **broad but shallow.** users complained that the scope of responses is too expansive, but simultaneously reported that models fail to go deeply on what users actually needed.
@@ -88,7 +88,7 @@ we compare this approach to an alternative approach of supplying the rubric in t
 
 ### methods
 
-we compare the ability of an llm (`gpt-5-mini`) to conform to [*the elements of style*](https://www.gutenberg.org/ebooks/37134) under the two approaches below.
+we compare the ability of an llm (gpt-5-mini) to conform to [*the elements of style*](https://www.gutenberg.org/ebooks/37134) under the two approaches.
 
 - **rubric in system prompt.** a single forward pass with our *distilled elements of style* guide supplied verbatim as the system prompt (no wrapping, prefix, or additional formatting). the user prompt is then given and the model generates its response with the guide in context.
 - **agentic writing (writer–reader loop).** the writer drafts with *no* rubric in its context. a separate reader call (the same underlying model, with the rubric in context) audits the draft line-by-line and returns a structured critique. the writer receives the critique and revises. critique and revision may repeat for up to two rounds.
