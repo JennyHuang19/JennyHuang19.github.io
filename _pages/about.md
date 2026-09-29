@@ -46,8 +46,8 @@ i am grateful to be supported by the amazon ai research innovation fellowship an
 
 ## thoughts lately
 
-<p style="font-size: 0.9em;" markdown="1">
-(i'm a sucker for clean prose and have thoroughly enjoyed spending the past 3 years helping others to shape theirs at the [mit comm lab](https://mitcommlab.mit.edu/eecs/fellows_staff/jenny-huang/))
+<p style="font-size: 0.9em; font-style: italic;" markdown="1">
+(i'm a sucker for clean prose and have thoroughly enjoyed spending the past 3 years helping others to shape theirs at the [mit communications lab](https://mitcommlab.mit.edu/eecs/fellows_staff/jenny-huang/))
 </p>
 
 - **[slow ai: ai that meets a human's pace]({% post_url 2026-05-04-slow-ai-ai-that-meets-a-humans-pace %})** - on designing ai systems that encourage slow thinking.
