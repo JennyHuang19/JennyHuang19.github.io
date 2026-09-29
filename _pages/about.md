@@ -52,6 +52,6 @@ i am grateful to be supported by the amazon ai research innovation fellowship an
 
 - **[slow ai: ai that meets a human's pace]({% post_url 2026-05-04-slow-ai-ai-that-meets-a-humans-pace %})** - on designing ai systems that encourage slow thinking.
 - **[ask your ai agent to be honest](https://www.lesswrong.com/posts/iPAqm9BmmFvTK6mDy/always-ask-your-agent-to-be-honest)** - experiments revealing why you should not always trust your agent's account of work.
-- **[simple ai]({% post_url 2026-09-29-simple-ai-inference-time-frameworks-for-reducing-ai-slop %})** - on inference-time frameworks for reducing ai slop.
+- **[simple ai - a proposed inference-time framework for reducing ai slop]({% post_url 2026-09-29-simple-ai-inference-time-frameworks-for-reducing-ai-slop %})** - on inference-time frameworks for reducing ai slop.
 
 </section>
