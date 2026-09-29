@@ -46,7 +46,9 @@ i am grateful to be supported by the amazon ai research innovation fellowship an
 
 ## thoughts lately
 
-i'm a sucker for clean prose; i have thoroughly enjoyed spending the past 3 years helping others to shape theirs at the [mit comm lab](https://mitcommlab.mit.edu/eecs/fellows_staff/jenny-huang/).
+<p style="font-size: 0.9em;" markdown="1">
+(i'm a sucker for clean prose and have thoroughly enjoyed spending the past 3 years helping others to shape theirs at the [mit comm lab](https://mitcommlab.mit.edu/eecs/fellows_staff/jenny-huang/))
+</p>
 
 - **[slow ai: ai that meets a human's pace]({% post_url 2026-05-04-slow-ai-ai-that-meets-a-humans-pace %})** - on designing ai systems that encourage slow thinking.
 - **[ask your ai agent to be honest](https://www.lesswrong.com/posts/iPAqm9BmmFvTK6mDy/always-ask-your-agent-to-be-honest)** - experiments revealing why you should always ask your ai agent to be honest.
