@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "simple ai: inference-time frameworks for reducing ai slop"
+title: "simple ai - a proposed inference-time framework for reducing ai slop"
 date: 2026-09-29
 ---
 
@@ -26,7 +26,7 @@ date: 2026-09-29
 
 <div class="post-content" markdown="1">
 
-# iterating toward quality: an inference-time framework for reducing ai slop.
+# simple ai - a proposed inference-time framework for reducing ai slop.
 
 <div style="font-size: 0.95em; color: #666; margin: 1.5rem 0 2rem 0; padding-bottom: 1rem; border-bottom: 1px solid #ddd;">
 <span>September 29, 2026</span> • <span>12 min read</span>
