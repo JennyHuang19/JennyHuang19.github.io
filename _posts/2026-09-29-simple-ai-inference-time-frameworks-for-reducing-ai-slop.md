@@ -39,6 +39,10 @@ date: 2026-09-29
 <span>september 29, 2026</span> • <span>12 min read</span>
 </div>
 
+<div style="font-size: 1.1em; font-style: italic; margin: 0 0 2rem 0;">
+this post was written with extensive feedback and discussions with omar khattab, tamara broderick, and dennis wei
+</div>
+
 ## introduction
 
 at some point, you may have experienced the feeling of reading ai-generated content, doing a double take, rereading carefully, and realizing that very little was *actually* said. the verbose yet vacuous nature of ai-generated text makes the content needlessly difficult to engage with.
@@ -168,9 +172,5 @@ another design goal we propose is *legible edits*. best practices may conflict: 
 finally, we believe that small, open models can also develop such capabilities within the proposed harness, and large models may not be great at this out-of-the-box. we will use reinforcement learning (rl) on the agent to learn how to better utilize expert handbooks. our plan here is for rl to operate at the level of the *harness*: learning how to decompose the work, which lenses to apply in which order, when to stop revising, and how to allocate a fixed inference budget across passes. we propose to evaluate whether small open models post-trained within this harness can match the writing quality of larger frontier models operating without it. this would help establish the harness itself as a meaningful enabler allowing the model to pick up on "taste."
 
 [^1]: see <https://huggingface.co/datasets/JennyHuang19/cutTheFluff> for the full list of prompts.
-
----
-
-*this post was written with extensive feedback and discussions with omar khattab, tamara broderick, and dennis wei*
 
 </div>
