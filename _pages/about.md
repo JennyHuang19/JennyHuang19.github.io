@@ -31,8 +31,9 @@ i am grateful to be supported by the amazon ai research innovation fellowship an
 
 ## recent news
 
-- **oct 2026** — i will be a [cbai](https://www.cbai.ai/ais-research-fellowship#mentors) research fellow in ai safety, collaborating with nikola jurkovic (metr).
-- **sept 2026** — i will be participating in the exploration phase of neel nanda's mats stream (38 selected out of 889)
+- **oct 2026** — i will be a [cbai](https://www.cbai.ai/ais-research-fellowship#mentors) research fellow in ai safety, collabing with nikola jurkovic (metr).
+- **oct 2026** — i will be at colm presenting our work, ["do llms benefit from their own words?"](https://openreview.net/forum?id=l6T6MrLgWp&noteId=l6T6MrLgWp).
+- **sept 2026** — i will be participating in the exploration phase of neel nanda's mats stream.
 - **aug 2026** — i gave a talk at the [stanford ai measurement seminar](https://hai.stanford.edu/events/hai-seminar-with-samni-koyejo).
 - **may 2026** — i will be a student researcher at google (mtv office).
 - **apr 2026** — i have been selected as an amazon ai research innovation fellow for the 2026-27 year!
