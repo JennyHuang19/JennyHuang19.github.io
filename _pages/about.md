@@ -48,10 +48,6 @@ i am grateful to be supported by the amazon ai research innovation fellowship an
 
 ## thoughts lately
 
-<p style="font-size: 0.9em; font-style: italic;" markdown="1">
-(i'm a sucker for clean prose and have enjoyed spending the last 3 years staffing at the [mit communications lab](https://mitcommlab.mit.edu/eecs/fellows_staff/jenny-huang/))
-</p>
-
 - **[slow ai: ai that meets a human's pace]({% post_url 2026-05-04-slow-ai-ai-that-meets-a-humans-pace %})** - on designing ai systems that encourage slow thinking.
 - **[simple ai]({% post_url 2026-09-29-simple-ai-inference-time-frameworks-for-reducing-ai-slop %})** - a proposed inference-time framework for reducing ai slop.
 - **[ask your ai agent to be honest](https://www.lesswrong.com/posts/iPAqm9BmmFvTK6mDy/always-ask-your-agent-to-be-honest)** - experiments revealing how ai-generated accounts of work may be deceiving.
